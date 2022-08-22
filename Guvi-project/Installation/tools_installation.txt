@@ -1,0 +1,5 @@
+Install the mysql. Please follow the below web site.
+https://tecadmin.net/install-mysql-on-amazon-linux/
+
+Install php and apache tool and please follow the below site.
+https://tecadmin.net/install-apache24-php7-on-amazon-linux/#:~:text=How%20to%20Install%20Apache%202.4%20%26%20PHP%207.4,A%20New%20Virtual%20Host%20...%205%20Conclusion
